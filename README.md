@@ -56,9 +56,9 @@ O dataset está em formato CSV e contém, entre outras, as seguintes variáveis:
 
 ## 📂 Estrutura do Projeto
 
-- credit-eda-and-analysis.ipynb # Notebook principal com EDA e SQL
-- credito.csv # Dataset de clientes de crédito
-- README.md # Documentação do projeto
+1. credit-eda-and-analysis.ipynb # Notebook principal com EDA e SQL
+2. credito.csv # Dataset de clientes de crédito
+3. images # folder com gráficos gerados por Pandas e SQL
 
 ---
 
